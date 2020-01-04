@@ -1,0 +1,17 @@
+.header-nav {
+    margin-left: auto;
+    margin-right: 65px;
+}
+
+.nav-link .nav-text {
+    margin-left: 50px;
+}
+
+.header-6 {
+    background-color: #010101;
+}
+
+.nav-text {
+    font-size: 19px;
+    font-family: 'Josefin Sans', sans-serif;
+}

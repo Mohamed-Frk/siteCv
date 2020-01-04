@@ -1,0 +1,54 @@
+.haut {
+    margin-top: 66px;
+}
+
+.titre {
+    font-size: 55px;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #18181A;
+   
+}
+
+.clr-col-md-4 {
+    position:relative;
+    background-color: #282828;
+    max-width: 26%;
+    margin-left: 50px;
+    margin-right: 111px;
+    min-height: 600px;
+}
+
+.experiences {
+    margin-top: 105px;
+}
+
+.vignettes {
+    position:absolute;
+    display:flex;
+    right: 609px;
+    top: 285px;
+}
+
+.Vgauche {
+    margin-right: 412px;
+}
+
+.Vcentre {
+    margin-right: 414px;
+}
+
+.Vdroite {
+    margin-right: -264px;
+}
+
+
+.xp {
+    display:flex;
+}
+
+.clr-col-md-2 {
+    background-color: #FC4225;
+    min-height: 75px;
+    min-width: 230px;
+}
+

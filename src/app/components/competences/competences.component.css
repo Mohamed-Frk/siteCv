@@ -1,0 +1,63 @@
+.conteneur {
+    min-height: 104%;
+    background-color: #282828;
+    margin-right: -24px !important;
+    margin-left: -24px !important;
+    margin-top: -24px;
+    
+}
+
+
+.haut {
+    margin-top: 75px;
+}
+
+.titre {
+    font-size: 55px;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #E7EAE9;
+   
+}
+
+.texte {
+    margin-top:60px;
+}
+
+.txt {
+    font-size: 17px;
+    font-family: 'Mitr', sans-serif;
+    color:#5B5B5B;
+}
+
+.txt2 {
+    color:#D1CFD0;
+    
+}
+
+.clr-col-12 {
+    text-align:center;
+}
+
+.competences {
+    margin-left: 130px;
+}
+
+.clr-col-md-4 {
+    min-height: 120px;
+    display:flex;
+}
+
+.numero {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 160px;
+    color: #C3C3C3;
+}
+
+.premier {
+    margin-bottom: 121px;
+}
+
+.alpha {
+    margin-top:14px;
+    margin-left:38px
+}
