@@ -1,9 +1,7 @@
 .conteneur {
-    min-height: 104%;
+    border-top-style: solid;
     background-color: #282828;
-    margin-right: -24px !important;
-    margin-left: -24px !important;
-    margin-top: -24px;
+    border-bottom-style: solid;
     
 }
 
@@ -16,11 +14,12 @@
     font-size: 55px;
     font-family: 'Josefin Sans', sans-serif;
     color: #E7EAE9;
+    margin-top:129px;
    
 }
 
 .texte {
-    margin-top:60px;
+    margin-top:64px;
 }
 
 .txt {
@@ -40,10 +39,18 @@
 
 .competences {
     margin-left: 130px;
+    display:flex;
+    margin-top:160px;
+}
+
+.competences2 {
+    display:flex;
+    margin-left: 130px;
+    margin-top:-5px;
 }
 
 .clr-col-md-4 {
-    min-height: 120px;
+    min-height: 145px;
     display:flex;
 }
 
@@ -61,3 +68,6 @@
     margin-top:14px;
     margin-left:38px
 }
+
+
+

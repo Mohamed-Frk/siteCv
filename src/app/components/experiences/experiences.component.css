@@ -1,3 +1,10 @@
+.conteneur {
+    border-top-style: solid;
+    background-color: #F2F2F2;
+    border-bottom: outset;
+    
+}
+
 .haut {
     margin-top: 66px;
 }
@@ -6,6 +13,7 @@
     font-size: 55px;
     font-family: 'Josefin Sans', sans-serif;
     color: #18181A;
+    text-align: center;
    
 }
 
@@ -19,22 +27,23 @@
 }
 
 .experiences {
-    margin-top: 105px;
+    margin-top: 102px;
+    margin-bottom:39px;
 }
 
 .vignettes {
     position:absolute;
     display:flex;
-    right: 609px;
-    top: 285px;
+    right: 595px;
+    top: 267px;
 }
 
 .Vgauche {
-    margin-right: 412px;
+    margin-right: 431px;
 }
 
 .Vcentre {
-    margin-right: 414px;
+    margin-right: 428px;
 }
 
 .Vdroite {

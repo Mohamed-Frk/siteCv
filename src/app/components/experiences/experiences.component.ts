@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, HostBinding } from '@angular/core';
 
 @Component({
   selector: 'app-experiences',
@@ -6,6 +6,8 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./experiences.component.css']
 })
 export class ExperiencesComponent implements OnInit {
+
+  @HostBinding('class') class = 'main-container';
 
   constructor() { }
 
